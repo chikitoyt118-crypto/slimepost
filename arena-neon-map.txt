@@ -1,0 +1,3 @@
+Archivo de ejemplo para Arena Neon Map.
+
+Reemplaza este TXT por tu mapa real.

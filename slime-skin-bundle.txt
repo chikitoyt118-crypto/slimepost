@@ -1,0 +1,3 @@
+Archivo de ejemplo para Slime Skin Bundle.
+
+Reemplaza este TXT por tus skins reales.

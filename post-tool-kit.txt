@@ -1,0 +1,3 @@
+Archivo de ejemplo para Post Tool Kit.
+
+Reemplaza este TXT por tus herramientas reales.

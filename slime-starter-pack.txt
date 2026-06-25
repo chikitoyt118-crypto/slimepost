@@ -1,0 +1,3 @@
+Archivo de ejemplo para Slime Starter Pack.
+
+Reemplaza este TXT por tu ZIP, RAR, PDF, instalador o pack real.
